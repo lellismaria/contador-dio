@@ -1,4 +1,4 @@
-<h1 align="center"> 📱 Contador - Desafio DIO </h1>
+<h1 align="center"> ⏱ Contador - Desafio DIO </h1>
 
 <p align="center">
 	<img src="https://i.imgur.com/MoJnqQZ.png" alt="contador" title="Contador DIO Projeto"> </p>
@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-Este é um projeto realizado pela atividade proposta no bootcamp do Santander pela DIO!
+Projeto consiste em criar um contador de cliques utilizando Javascript.
 
 ---
 
