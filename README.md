@@ -1,7 +1,7 @@
 <h1 align="center"> 📱 Contador - Desafio DIO </h1>
 
 <p align="center">
-	<img src="https://t.ctcdn.com.br/Sajzmy4pSl8YeqQSok7j-R1VRhc=/1200x675/smart/filters:format(webp)/i371465.jpeg" alt="contador" title="Contador DIO Projeto"> </p>
+	<img src="https://i.imgur.com/MoJnqQZ.png" alt="contador" title="Contador DIO Projeto"> </p>
 
 
 ## 💻 Sobre o projeto
@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-- Você pode acessar o projeto clicando <a href="https://instagram-dio-rho.vercel.app/">aqui</a>.
+- Você pode acessar o projeto clicando <a href="https://contador-dio.vercel.app/">aqui</a>.
 
 ---
 
